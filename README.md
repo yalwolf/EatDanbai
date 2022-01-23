@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# Eatdanbai
 
 _🦌 网页小游戏 🥛_
 
@@ -15,6 +15,10 @@ _🦌 网页小游戏 🥛_
 小游戏：吃掉蛋白
 
 线上版本:[点击进入](https://game.alwolf.cn/eatdanbai)
+
+原作者：[arcxingye](https://github.com/arcxingye)
+
+原仓库地址：https://github.com/arcxingye/EatKano
 
 ## 可选功能
 
