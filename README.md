@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉蛋白
 
-线上版本:[点击进入](https://website.dbhg.top/games/eatdanbai/)
+线上版本：[点击进入](https://website.dbhg.top/games/eatdanbai/)
 
 原作者：[arcxingye](https://github.com/arcxingye)
 
