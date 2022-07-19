@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/image/ClickBefore.png" alt="Eatdanbai">
+  <img src="https://github.com/yalwolf/EatDanbai/edit/main/static/image/ClickBefore.png" alt="Eatdanbai">
 </p>
 <div align="center">
 
